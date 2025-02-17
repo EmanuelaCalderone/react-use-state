@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+/*titolo principale*/
+h1 {
+  margin-bottom: 20px;
+}
+
+/*bottoni*/
+button {
+  border-radius: 10px;
+  border: 1px solid;
+  padding: 20px;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+  border: none;
+  margin-right: 10px;
+}
+
+/*hover sui bottoni*/
+button:hover,
+button:focus {
+  background-color: rgb(255, 200, 0);
+  color: black;
+}
+
+/*card*/
+.card {
+  border: 1px solid black;
+  text-align: left;
+  margin-top: 20px;
+}
+
+/*titolo card*/
+h2 {
+  margin-bottom: 20px;
+}
