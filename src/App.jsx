@@ -4,7 +4,7 @@ import { useState } from 'react'
 import './App.css'
 
 //importo il componente Card
-import Card from './components/card'
+import Card from './components/Card'
 
 //creo la costante che contiene l'array dei linguaggi
 
